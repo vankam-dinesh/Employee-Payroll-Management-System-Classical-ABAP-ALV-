@@ -8,6 +8,6 @@ It calculates employee salary components and displays them in ALV.
 Concepts Used:                                                                                                   
 - Classical ABAP                                                             
 - Internal Tables         
-- Modularization (FORMS)                    
+- Modularization (FORMS)                                 
 - ALV Grid (REUSE_ALV_GRID_DISPLAY)    
 - Salary Calculation Logic
