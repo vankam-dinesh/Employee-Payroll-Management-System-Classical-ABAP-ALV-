@@ -5,7 +5,7 @@ Description:
 This project demonstrates a medium-complex Classical ABAP report using ALV Grid.                                                
 It calculates employee salary components and displays them in ALV.                                                                           
 
-Concepts Used:                                                                                                                      
+Concepts Used:                                                                                                                                                  
 - Classical ABAP                                                                                                                                                           
 - Internal Tables                                                                                               
 - Modularization (FORMS)                                                                                                                                                                                                                                                                                                         
