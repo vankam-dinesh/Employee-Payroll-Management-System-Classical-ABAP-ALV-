@@ -1,6 +1,6 @@
 
 CLASSICAL ABAP + ALV PAYROLL PROJECT                                                                                  
-                                                          
+                                                                                                                  
 Description:                                                                                                                                                                                                                                 
 This project demonstrates a medium-complex Classical ABAP report using ALV Grid.                                                
 It calculates employee salary components and displays them in ALV.                                                                                                                           
